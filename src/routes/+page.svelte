@@ -42,7 +42,7 @@
             <img src="/logo 1.svg" alt="site logo" width="100" height="40">
         </div> -->
         <div style="margin-left: 10px;">
-            <ul style="font-size: 18px;">
+            <ul style="font-size: 16px;">
                 <li style="padding-bottom: 20px;">I'm <img style="padding-top: 10px; margin-bottom:-9px" src="/logo 1.svg" alt="site logo" width="100" height="40">, an engineer and operation manager.</li>
                 <li style="padding-top: 20px;">Operating <a href="https://www.igenserver.com/" target="_blank" style="color: inherit;">IGenServer</a>, a web-service agency founded in 2022.</li>
                 <li style="padding-top: 20px;">Right now, I'm working on computer vision <a href="https://github.com/monirul399/vehicle-classification-and-detection" target="_blank" style="color: inherit;">research projects</a>, providing software solutions and building intuitive products.</li>
