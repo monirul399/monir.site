@@ -2,6 +2,9 @@
 
 </script>
 
+<svelte:head>
+  <title>Monirul Islam</title>
+</svelte:head>
 
 
 	<!-- <body style="display: flex;
