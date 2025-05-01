@@ -47,7 +47,7 @@
         <div style="margin-left: 10px;">
             <ul style="font-size: 14px;">
                 <li style="padding-bottom: 20px;">I'm <img style="padding-top: 10px; margin-bottom:-9px" src="/logo 1.svg" alt="site logo" width="100" height="40">, an engineer and operation manager.</li>
-                <li style="padding-top: 20px;">Operating <a href="https://www.igenserver.com/" target="_blank" style="color: inherit;">IGenServer</a>, a web-service agency founded in 2022.</li>
+                <li style="padding-top: 20px;">Operating <a href="https://www.igenserver.agency/" target="_blank" style="color: inherit;">IGenServer</a>, a web-service agency founded in 2022.</li>
                 <li style="padding-top: 20px;">Right now, I'm working on computer vision <a href="https://github.com/monirul399/vehicle-classification-and-detection" target="_blank" style="color: inherit;">research projects</a>, providing software solutions and building intuitive products.</li>
                 <li style="padding-top: 20px;">Books, podcasts, movies, soccer give me joy.</li>
                 <li style="padding-top: 20px;">You can connect me on <a href="https://www.linkedin.com/in/monirul-1slam/" target="_blank" style="color: inherit;">Linkedin</a>, <a href="https://twitter.com/monirul_1slam" target="_blank" style="color: inherit;">X (Twitter)</a>, <a href="https://www.instagram.com/monirul_1slam/" target="_blank" style="color: inherit;">Instagram</a>, <a href="https://www.facebook.com/profile.php?id=100030738394340" target="_blank" style="color: inherit;">Facebook</a>.</li>
